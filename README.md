@@ -1,6 +1,6 @@
-# myapp
+# Rick & Morty Flutter
 
-A new Flutter project.
+A Rick & Morty Flutter project.
 
 ## Getting Started
 
